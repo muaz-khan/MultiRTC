@@ -11,18 +11,29 @@ It works as following:
 
 Last point means, you can view or hear someone's shared camera without sharing your own camera.
 
+# Wanna Report a Bug?
+
+* https://github.com/muaz-khan/MultiRTC/issues
 
 [![npm](https://img.shields.io/npm/v/multirtc.svg)](https://npmjs.org/package/multirtc) [![downloads](https://img.shields.io/npm/dm/multirtc.svg)](https://npmjs.org/package/multirtc)
+
+[![npm](https://img.shields.io/npm/v/multirtc-firebase.svg)](https://npmjs.org/package/multirtc-firebase) [![downloads](https://img.shields.io/npm/dm/multirtc-firebase.svg)](https://npmjs.org/package/multirtc-firebase)
+
+[![npm](https://img.shields.io/npm/v/multirtc-websocket.svg)](https://npmjs.org/package/multirtc-websocket) [![downloads](https://img.shields.io/npm/dm/multirtc-websocket.svg)](https://npmjs.org/package/multirtc-websocket)
 
 1. Source Code: https://github.com/muaz-khan/MultiRTC
 2. Simpler Demo: https://www.webrtc-experiment.com/RTCMultiConnection/MultiRTC/
 3. RTCMultiConnection.js: https://github.com/muaz-khan/RTCMultiConnection
 
+# Gif Presentation
+
 <img src="https://cdn.webrtc-experiment.com/images/MultiRTC.gif" />
 
-<a href="https://nodei.co/npm/multirtc/">
-    <img src="https://nodei.co/npm/multirtc.png">
-</a>
+# Demos Sources
+
+1. [MultiRTC Firebase](https://github.com/muaz-khan/MultiRTC/tree/master/MultiRTC-firebase)
+2. [MultiRTC WebSocket](https://github.com/muaz-khan/MultiRTC/tree/master/MultiRTC-websocket)
+3. [MultiRTC Socketio](https://github.com/muaz-khan/MultiRTC/tree/master/MultiRTC-socketio)
 
 # NPM
 
@@ -35,12 +46,6 @@ npm install multirtc-firebase
 
 # websockets based solution
 npm install multirtc-websocket
-```
-
-Now, both WebSocket and HTTPs servers are running at port `12034`:
-
-```
-https://127.0.0.1:12034/
 ```
 
 # What is MultiRTC?
